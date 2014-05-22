@@ -13,3 +13,5 @@ $ git checkout master
 $ git merge feature1
 $ git branch -d feature1
 $ git checkout -b dev
+
+$ git stash
