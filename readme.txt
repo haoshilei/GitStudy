@@ -6,3 +6,7 @@ Creating a new branch is quick.
 
 $ git checkout master
 $ git merge dev
+
+Creating a new branch is quick & simple.
+$ git checkout -b feature1
+$ git checkout master
