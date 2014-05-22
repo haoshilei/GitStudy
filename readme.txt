@@ -15,3 +15,5 @@ $ git branch -d feature1
 $ git checkout -b dev
 
 $ git stash
+$ git remote -v
+$ git push origin master
