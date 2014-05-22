@@ -14,4 +14,12 @@ $ git merge feature1
 $ git branch -d feature1
 $ git checkout -b dev
 
+
 $ git checkout -b issue-101
+$ git checkout master
+$ git merge issue-101
+$ git branch -d issue-101
+$ git stash
+$ git remote -v
+$ git push origin master
+
