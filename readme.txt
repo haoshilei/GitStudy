@@ -23,3 +23,4 @@ $ git stash
 $ git remote -v
 $ git push origin master
 
+http://stackoverflow.com/questions/5827944/git-error-on-commit-after-merge-fatal-cannot-do-a-partial-commit-during-a-mer
