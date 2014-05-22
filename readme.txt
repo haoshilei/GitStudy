@@ -10,3 +10,6 @@ $ git merge dev
 Creating a new branch is quick & simple.
 $ git checkout -b feature1
 $ git checkout master
+$ git merge feature1
+$ git branch -d feature1
+$ git checkout -b dev
