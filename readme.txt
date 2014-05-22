@@ -3,3 +3,6 @@ Git is free software distributed under the GPL...
 
 git checkout -b dev
 Creating a new branch is quick.
+
+$ git checkout master
+$ git merge dev
